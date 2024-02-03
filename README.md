@@ -30,4 +30,7 @@ Você poderá utilizar seu repositório de duas maneiras:
 Ao clonar o repositório, realize o primeiro `commit` incluindo seu nome neste arquivo README.
 
 Bons estudos e divirta-se!
+
+## Aluna
+
 Daniela Ferreira
